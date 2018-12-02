@@ -1,0 +1,15 @@
+{
+  "useTaobaoRegistry": false,
+  "useConfigFiles": false,
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "axios": {},
+    "@vue/cli-plugin-eslint": {
+      "config": "standard",
+      "lintOn": [
+        "save"
+      ]
+    }
+  },
+  "cssPreprocessor": "sass"
+}
