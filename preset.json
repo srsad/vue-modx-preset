@@ -3,7 +3,7 @@
   "useConfigFiles": false,
   "plugins": {
     "@vue/cli-plugin-babel": {},
-    "axios": {},
+    "vue-resource": {},
     "@vue/cli-plugin-eslint": {
       "config": "standard",
       "lintOn": [
