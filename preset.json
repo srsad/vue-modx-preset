@@ -7,7 +7,7 @@
     "axios": {},
     "vue-axios": {},
     "vueModx": {
-      "versions": "git+https://github.com/srsad/vueModx.git"
+      "version": "git+https://github.com/srsad/vueModx.git"
     },
     "@vue/cli-plugin-eslint": {
       "config": "standard",
