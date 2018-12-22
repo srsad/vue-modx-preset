@@ -4,6 +4,9 @@
   "plugins": {
     "@vue/cli-plugin-babel": {},
     "vue-resource": {},
+    "axios": {},
+    "vue-axios": {},
+    "git+https://github.com/srsad/vueModx.git": {},
     "@vue/cli-plugin-eslint": {
       "config": "standard",
       "lintOn": [
