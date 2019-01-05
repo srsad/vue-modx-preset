@@ -3,7 +3,6 @@
   "useConfigFiles": false,
   "plugins": {
     "@vue/cli-plugin-babel": {},
-    "vue-resource": {},
     "axios": {},
     "vue-axios": {},
     "vueModx": {
